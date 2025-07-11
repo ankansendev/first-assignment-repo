@@ -1,0 +1,189 @@
+.background{
+    background-image: url(/Assets/Hero-bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 80px;
+    
+}
+
+
+nav{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 200px;
+    
+
+}
+
+.text-primary{
+    color: #4E47FF;
+}
+
+.btn-primary{
+    background-color: #4E47FF;
+    font-weight: bold; 
+    font-size: 16px;
+    border: none;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+
+}
+
+.nav-title{
+font-weight: bold; 
+min-width: 99px;
+min-height: 51px;
+font-size: 34px;
+}
+
+
+nav ul{
+list-style: none;
+display: flex;
+margin: 0px;
+padding: 50px;
+align-items: center;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    
+    
+}
+
+.banner-title{
+    font-weight: bold;
+    font-size: 65px;
+    text-align: center;
+    align-items: center;
+    color: #252432;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html body{
+    height: 100%;
+    width: 100%;
+     margin: 0;
+    padding: 0;
+}
+
+.action{
+ display: flex;
+ justify-content: space-between;
+ margin: 116px 150px 116px 150px;
+}
+
+.action-content{
+      max-width: 580px;
+}
+
+.action-title{
+    color: #252432;
+    font-weight: bold;
+    font-size: 42px;
+}
+.action-pra{
+    color: #252432;
+   font-weight: 200px;
+   font-size: 24px;
+   width: 517px;
+
+}
+.action-profile-picture{
+    display: flex;
+    width: 403px;
+    border-radius: 48px;
+}
+
+.about{
+    width: 1140px;
+    padding: 80px 50px;
+    margin: 50px 230px 100px; 
+    border-radius: 24px;
+    border: none;
+    background-color:#4E47FF1A;;
+
+}
+
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color:#252432 ;
+    text-align: center;
+}
+
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item-description{
+    font-size: 20px;
+    font-weight: 600;
+    color: #252432;
+}
+
+.item-title{
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+
+
+
+.skill-title{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+.logo{
+    font-size: 100px;
+    font-weight: bolder;
+    color: #4E47FF;
+    text-align: center;
+    align-items: center;
+    padding-left: 800px;
+
+}
+.pra{
+    font-size: 16px;
+    font-weight: 18px;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.foot{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 200px;
+    
+}
+.foot ul li{
+display: flex;
+list-style: none;
+margin: 50px;
+padding: 60px;
+align-items: center;
+text-align: center;
+}
+
+   
